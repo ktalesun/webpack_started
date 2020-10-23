@@ -4,7 +4,6 @@ Este es el proyecto incial en el cual se configuró Webpack por primera vez para
 
 ### Anotaciones
 
-Recordar reconstruir las dependencias de Node
 
 ```
 npm install
